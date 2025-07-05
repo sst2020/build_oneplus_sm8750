@@ -119,8 +119,8 @@ jobs:
 
       - name: 📦 Configure Git (设置下载账户)
         run: |
-          git config --global user.name "Q1udaoyu"
-          git config --global user.email "sucisama2888@gmail.com"
+          git config --global user.name "sst2020"
+          git config --global user.email "3362402439@qq.com"
 
       - name: 🛠 Configure APT caching (配置APT缓存)
         run: |
